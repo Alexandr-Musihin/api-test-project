@@ -384,9 +384,8 @@ pytest tests/ --duration=10  # Самые медленные тесты
 ## 👨‍💻 Автор
 
 **Ваше Имя**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [@Alexandr-Musihin](https://github.com/Alexandr-Musihin)
+- Email: memniy.tip7777@gmail.com
 
 ## 🙏 Благодарности
 
@@ -410,11 +409,11 @@ pytest tests/ --duration=10  # Самые медленные тесты
 
 По вопросам, предложениям или сотрудничеству:
 
-- 📧 Email: your.email@example.com
-- 💬 Telegram: @yourusername
-- 🐦 Twitter: @yourusername
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- 📧 Email: memniy.tip7777@gmail.com
+- 💬 Telegram: @Luimp3
+
+
 
 ---
 
-*Последнее обновление: Ноябрь 2024*
+*Последнее обновление: Январь 2026*

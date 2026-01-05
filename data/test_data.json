@@ -1,0 +1,21 @@
+{
+  "pets": [
+    {
+      "id": 123456,
+      "name": "TestPet",
+      "category": {
+        "id": 1,
+        "name": "Dogs"
+      },
+      "photoUrls": ["https://example.com/photo.jpg"],
+      "tags": [
+        {
+          "id": 1,
+          "name": "tag1"
+        }
+      ],
+      "status": "available"
+    }
+  ],
+  "statuses": ["available", "pending", "sold"]
+}

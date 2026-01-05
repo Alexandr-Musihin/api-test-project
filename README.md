@@ -1,4 +1,4 @@
-**Live Demo:** [https://Alexandr-Musihin.github.io/api-test-project/report.html](ссылка)
+**Live Demo:** [https://Alexandr-Musihin.github.io/api-test-project/report.html]
 
 
 
@@ -229,5 +229,6 @@ def test_create_pet(self, api_client, pet_data):
 ---
 
 ⭐ **Если проект был полезен, поставьте звезду на GitHub!**
+
 
 

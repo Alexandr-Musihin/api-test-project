@@ -1,5 +1,6 @@
 **Live Demo:** [https://Alexandr-Musihin.github.io/api-test-project/report.html](ссылка)
-**CI/CD Status:** ![Tests](https://github.com/api-test-project/.github/workflows/tests.yml/badge.svg
+
+
 
 # 🐾 Petstore API Test Automation Framework
 
@@ -228,4 +229,5 @@ def test_create_pet(self, api_client, pet_data):
 ---
 
 ⭐ **Если проект был полезен, поставьте звезду на GitHub!**
+
 

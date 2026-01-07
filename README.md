@@ -56,7 +56,7 @@ petstore-api-tests/
 ### 1. Клонирование репозитория
 ```bash
 git clone <repository-url>
-cd petstore-api-tests
+cd api-test-project
 ```
 
 ### 2. Установка зависимостей
@@ -229,6 +229,7 @@ def test_create_pet(self, api_client, pet_data):
 ---
 
 ⭐ **Если проект был полезен, поставьте звезду на GitHub!**
+
 
 
 
